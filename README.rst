@@ -18,7 +18,7 @@ The following platform backends are available for Rubicon:
 Community
 ---------
 
-Toga is part of the `BeeWare suite`_. You can talk to the community through:
+Rubicon is part of the `BeeWare suite`_. You can talk to the community through:
 
 * `@pybeeware on Twitter`_
 
@@ -30,8 +30,8 @@ Contributing
 ------------
 
 If you experience problems with Toga, log them using the platform specific
-ticket trackers on GitHub (`Objc`_, `Java`_). If you want to contribute code, please fork the code and
-submit a pull request.
+ticket trackers on GitHub (`ObjC`_, `Java`_). If you want to contribute code,
+please fork the code and submit a pull request.
 
 .. _rubicon-objc: https://github.com/pybee/rubicon-objc
 .. _rubicon-java: https://github.com/pybee/rubicon-java
