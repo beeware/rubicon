@@ -36,7 +36,7 @@ please fork the code and submit a pull request.
 .. _rubicon-objc: https://github.com/pybee/rubicon-objc
 .. _rubicon-java: https://github.com/pybee/rubicon-java
 .. _BeeWare suite: http://pybee.org
-.. _Read The Docs: http://toga.readthedocs.org
+.. _Read The Docs: https://toga.readthedocs.io
 .. _@pybeeware on Twitter: https://twitter.com/pybeeware
 .. _BeeWare Users Mailing list: https://groups.google.com/forum/#!forum/beeware-users
 .. _BeeWare Developers Mailing list: https://groups.google.com/forum/#!forum/beeware-developers
