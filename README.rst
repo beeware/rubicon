@@ -18,27 +18,23 @@ The following platform backends are available for Rubicon:
 Community
 ---------
 
-Rubicon is part of the `BeeWare suite`_. You can talk to the community through:
+Rubicon is part of the `BeeWare suite <https://beeware.org>`__. You can talk to the
+community through:
 
-* `@pybeeware on Twitter`_
+* `@beeware@fosstodon.org on Mastodon <https://fosstodon.org/@beeware>`__
 
-* The `BeeWare Users Mailing list`_, for questions about how to use the BeeWare suite.
+* `Discord <https://beeware.org/bee/chat/>`__
 
-* The `BeeWare Developers Mailing list`_, for discussing the development of new features in the BeeWare suite, and ideas for new tools for the suite.
+We foster a welcoming and respectful community as described in our `BeeWare Community
+Code of Conduct <https://beeware.org/community/behavior/>`__.
 
 Contributing
 ------------
 
-If you experience problems with Toga, log them using the platform specific
-ticket trackers on GitHub (`ObjC`_, `Java`_). If you want to contribute code,
-please fork the code and submit a pull request.
+If you experience problems with Rubicon, log them using the platform specific
+ticket trackers on GitHub (`ObjC`_, `Java`_).
 
 .. _rubicon-objc: https://github.com/pybee/rubicon-objc
 .. _rubicon-java: https://github.com/pybee/rubicon-java
-.. _BeeWare suite: http://pybee.org
-.. _Read The Docs: https://toga.readthedocs.io
-.. _@pybeeware on Twitter: https://twitter.com/pybeeware
-.. _BeeWare Users Mailing list: https://groups.google.com/forum/#!forum/beeware-users
-.. _BeeWare Developers Mailing list: https://groups.google.com/forum/#!forum/beeware-developers
 .. _ObjC: https://github.com/pybee/rubicon-objc/issues
 .. _Java: https://github.com/pybee/rubicon-java/issues
