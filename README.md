@@ -10,9 +10,9 @@ for the platform specific backends.
 
 The following platform backends are available for Rubicon:
 
-- [rubicon-objc](https://github.com/pybee/rubicon-objc): for Objective C
+- [rubicon-objc](https://github.com/beeware/rubicon-objc): for Objective C
   (OS X and iOS)
-- [rubicon-java](https://github.com/pybee/rubicon-java): for Java
+- [rubicon-java](https://github.com/beeware/rubicon-java): for Java
 
 ## Community
 
