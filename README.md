@@ -6,7 +6,7 @@ environments.
 The core package doesn't do anything - it's just a namespace placeholder
 for the platform specific backends.
 
-# Related projects
+## Related projects
 
 The following platform backends are available for Rubicon:
 
@@ -14,7 +14,7 @@ The following platform backends are available for Rubicon:
   (OS X and iOS)
 - [rubicon-java](https://github.com/pybee/rubicon-java): for Java
 
-# Community
+## Community
 
 Rubicon is part of the [BeeWare suite](https://beeware.org). You can
 talk to the community through:
@@ -26,9 +26,9 @@ We foster a welcoming and respectful community as described in our
 [BeeWare Community Code of
 Conduct](https://beeware.org/community/behavior/).
 
-# Contributing
+## Contributing
 
 If you experience problems with Rubicon, log them using the platform
 specific ticket trackers on GitHub
-([ObjC](https://github.com/pybee/rubicon-objc/issues),
-[Java](https://github.com/pybee/rubicon-java/issues)).
+([ObjC](https://github.com/beeware/rubicon-objc/issues),
+[Java](https://github.com/beeware/rubicon-objc/issues)).
