@@ -31,4 +31,4 @@ Conduct](https://beeware.org/community/behavior/).
 If you experience problems with Rubicon, log them using the platform
 specific ticket trackers on GitHub
 ([ObjC](https://github.com/beeware/rubicon-objc/issues),
-[Java](https://github.com/beeware/rubicon-objc/issues)).
+[Java](https://github.com/beeware/rubicon-java/issues)).
